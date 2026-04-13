@@ -23,3 +23,7 @@ Este archivo contiene mis preferencias globales para que cualquier IA me asista 
 2. **Configuración de Git:** Al configurar el `user.name`, usar siempre comillas `""` para nombres con espacios y verificar que no queden caracteres extraños como `~` al final.
 3. **Commit Inicial:** Si el primer commit falla en un proyecto nuevo, verificar siempre que el correo y nombre estén configurados globalmente en la terminal.
 4. **TODOs Automáticos:** Ignorar los avisos de `TODO` en archivos como `data_extraction_rules.xml`, ya que son comentarios por defecto de Android.
+
+## 📋 Reglas de Interacción Semiautomática
+1. **Sincronización:** Preferencia por el método **semiautomático** para actualizar este archivo (la IA edita localmente el README y Mario hace el Push).
+2. **Historial de Errores:** Cada vez que Mario cometa un error y lo solucionemos, la IA actualizará este archivo en la sección de "Lecciones Aprendidas".
