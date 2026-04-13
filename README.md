@@ -28,6 +28,7 @@ Este archivo contiene mis preferencias globales para que cualquier IA me asista 
 2. **Configuración de Git:** Al configurar el `user.name`, usar siempre comillas `""` para nombres con espacios y verificar que no queden caracteres extraños como `~` al final.
 3. **Commit Inicial:** Si el primer commit falla en un proyecto nuevo, verificar siempre que el correo y nombre estén configurados globalmente en la terminal.
 4. **TODOs Automáticos:** Ignorar los avisos de `TODO` en archivos como `data_extraction_rules.xml`, ya que son comentarios por defecto de Android.
+5. **Conexión de Proyectos:** Confirmada la sincronización exitosa y lectura del perfil maestro desde el proyecto `Pruebamemoria`.
 
 ## 📋 Reglas de Interacción Semiautomática
 1. **Sincronización:** Preferencia por el método **semiautomático**. La IA debe editar el archivo local directamente.
