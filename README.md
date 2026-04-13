@@ -18,10 +18,11 @@ Este archivo contiene mis preferencias globales para que cualquier IA me asista 
 - **Móviles de prueba:** Samsung A21 y Honor X8b.
 - **Tecnologías:** Kotlin, XML (Layouts tradicionales), Material Design 3.
 
-## 📂 Listado de Proyectos (Orden de prioridad)
+## 📂 Listado de Proyectos y Contexto
 1. **mario-config-ia**: Proyecto principal de configuración y memoria.
-2. **pruebamemoria**: Proyecto de pruebas de integración y memoria.
-3. **corto-oc201702**: Proyecto de desarrollo de aplicación Android.
+2. **pruebamemoria**: Proyecto de pruebas de integración y memoria (Aquí haremos los análisis de código).
+3. **corto-oc201702**: **EXAMEN ACTUAL**. Prioridad máxima: resolución de tareas del examen sin análisis profundo de código base para ahorrar tiempo.
+4. **Guías de estudio**: Proyectos secundarios para aprendizaje detallado.
 
 ## 📚 Lecciones Aprendidas (Errores a evitar)
 1. **Instalación de Git:** Siempre reiniciar Android Studio tras instalar Git en Windows para que reconozca las rutas del sistema.
@@ -32,6 +33,6 @@ Este archivo contiene mis preferencias globales para que cualquier IA me asista 
 
 ## 📋 Reglas de Interacción Semiautomática
 1. **Sincronización:** Preferencia por el método **semiautomático**. La IA debe editar el archivo local directamente.
-2. **Ruta Local del Cerebro:** `C:/Users/netoz/AndroidStudioProjects/Mario-Config-IA/README.md` (Usa esta ruta para editar cuando Mario pida cambios).
-3. **Historial de Errores:** Actualizar automáticamente la sección de "Lecciones Aprendidas" ante nuevos hallazgos.
+2. **Actualización Automática:** Cada vez que Mario mencione que ha realizado un "Push" o que ha cambiado algo en las preferencias, la IA debe re-leer el archivo `README.md` inmediatamente sin que se le pida.
+3. **Ruta Local del Cerebro:** `C:/Users/netoz/AndroidStudioProjects/Mario-Config-IA/README.md`
 4. **Cierre de Proyecto:** Al terminar una etapa, cerrar con una frase motivacional (Ejemplo: "Hay más estrellas en el cielo que ideas").
