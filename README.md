@@ -18,6 +18,11 @@ Este archivo contiene mis preferencias globales para que cualquier IA me asista 
 - **Móviles de prueba:** Samsung A21 y Honor X8b.
 - **Tecnologías:** Kotlin, XML (Layouts tradicionales), Material Design 3.
 
+## 📂 Listado de Proyectos (Orden de prioridad)
+1. **mario-config-ia**: Proyecto principal de configuración y memoria.
+2. **pruebamemoria**: Proyecto de pruebas de integración y memoria.
+3. **corto-oc201702**: Proyecto de desarrollo de aplicación Android.
+
 ## 📚 Lecciones Aprendidas (Errores a evitar)
 1. **Instalación de Git:** Siempre reiniciar Android Studio tras instalar Git en Windows para que reconozca las rutas del sistema.
 2. **Configuración de Git:** Al configurar el `user.name`, usar siempre comillas `""` para nombres con espacios y verificar que no queden caracteres extraños como `~` al final.
