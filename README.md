@@ -25,5 +25,7 @@ Este archivo contiene mis preferencias globales para que cualquier IA me asista 
 4. **TODOs Automáticos:** Ignorar los avisos de `TODO` en archivos como `data_extraction_rules.xml`, ya que son comentarios por defecto de Android.
 
 ## 📋 Reglas de Interacción Semiautomática
-1. **Sincronización:** Preferencia por el método **semiautomático** para actualizar este archivo (la IA edita localmente el README y Mario hace el Push).
-2. **Historial de Errores:** Cada vez que Mario cometa un error y lo solucionemos, la IA actualizará este archivo en la sección de "Lecciones Aprendidas".
+1. **Sincronización:** Preferencia por el método **semiautomático**. La IA debe editar el archivo local directamente.
+2. **Ruta Local del Cerebro:** `C:/Users/netoz/AndroidStudioProjects/Mario-Config-IA/README.md` (Usa esta ruta para editar cuando Mario pida cambios).
+3. **Historial de Errores:** Actualizar automáticamente la sección de "Lecciones Aprendidas" ante nuevos hallazgos.
+4. **Cierre de Proyecto:** Al terminar una etapa, cerrar con una frase motivacional (Ejemplo: "Hay más estrellas en el cielo que ideas").
